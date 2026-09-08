@@ -1,6 +1,6 @@
 # Hi, I'm Fahad 👋
 
-Python developer building AI/ML tools and automation systems. I'm also studying Software Quality Engineering.
+Python developer building AI/ML tools and automation systems.
 
 - 🔭 Currently building AI agents and computer vision tools
 - 🌱 Learning: applied ML and production-grade agent systems
